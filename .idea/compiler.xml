@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-customer-service-api (1)" />
+        <module name="Customer-Service-Api (1)" />
+        <module name="Order-Service-api (2)" />
+        <module name="Customer-Service-Api (3)" />
+        <module name="place-order-service-apo (2)" />
+        <module name="eureka-service" />
+        <module name="Item-Service-api (1)" />
+        <module name="product-service-api (2)" />
+        <module name="Service-Registry-api (3)" />
+        <module name="Service-Registry-api (1)" />
+        <module name="Item-Service-api (3)" />
+        <module name="com-order-service-api (1)" />
+        <module name="Api-Gateway" />
+        <module name="Place-Order-Service-api (2)" />
+        <module name="com-customer-service-api (2)" />
+        <module name="Customer-Service-Api (2)" />
+        <module name="Order-Service-api (3)" />
+        <module name="place-order-service-apo (1)" />
+        <module name="Order-Service-api (1)" />
+        <module name="product-service-api (1)" />
+        <module name="Service-Registry-api (2)" />
+        <module name="Confing-Server-api" />
+        <module name="Place-Order-Service-api (3)" />
+        <module name="Item-Service-api (2)" />
+        <module name="com-order-service-api (2)" />
+        <module name="Place-Order-Service-api (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-customer-service-api" target="17" />
+      <module name="com-order-service-api" target="17" />
+      <module name="Customer-Service-Api" target="1.5" />
+      <module name="Item-Service-api" target="1.5" />
+      <module name="Order-Service-api" target="1.5" />
+      <module name="Place-Order-Service-api" target="1.5" />
+      <module name="place-order-service-apo" target="1.5" />
+      <module name="product-service-api" target="11" />
+      <module name="Service-Registry-api" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Api-Gateway" options="-parameters" />
+      <module name="Confing-Server-api" options="-parameters" />
+      <module name="Customer-Service-Api (1)" options="-parameters" />
+      <module name="Customer-Service-Api (2)" options="-parameters" />
+      <module name="Customer-Service-Api (3)" options="-parameters" />
+      <module name="Item-Service-api (1)" options="-parameters" />
+      <module name="Item-Service-api (2)" options="-parameters" />
+      <module name="Item-Service-api (3)" options="-parameters" />
+      <module name="Order-Service-api (1)" options="-parameters" />
+      <module name="Order-Service-api (2)" options="-parameters" />
+      <module name="Order-Service-api (3)" options="-parameters" />
+      <module name="Place-Order-Service-api (1)" options="-parameters" />
+      <module name="Place-Order-Service-api (2)" options="-parameters" />
+      <module name="Place-Order-Service-api (3)" options="-parameters" />
+      <module name="Service-Registry-api (1)" options="-parameters" />
+      <module name="Service-Registry-api (2)" options="-parameters" />
+      <module name="Service-Registry-api (3)" options="-parameters" />
+      <module name="com-customer-service-api (2)" options="-parameters" />
+      <module name="com-order-service-api (2)" options="-parameters" />
+      <module name="place-order-service-apo (2)" options="-parameters" />
+      <module name="product-service-api (2)" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77179652-1256-48cf-9ea4-0b200c23fe02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Pos System Micro Service  add eureka server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pos System Micro Service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-customer-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com-customer-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-customer-service-api/src/main/java/com/devstack/com/customer/service/api/ComCustomerServiceApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-customer-service-api/src/main/java/com/devstack/com/customer/service/api/ComCustomerServiceApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-customer-service-api/src/main/java/com/devstack/com/customer/service/api/feigns/OrderFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-customer-service-api/src/main/java/com/devstack/com/customer/service/api/feigns/OrderFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-customer-service-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/com-customer-service-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/ComOrderServiceApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/ComOrderServiceApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/dto/PlaceOrderDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/dto/PlaceOrderDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/feigns/PlacerOrderFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/feigns/PlacerOrderFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/feigns/ProductFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/feigns/ProductFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/place-order-service-apo/src/main/java/com/devstack/placeorderserviceapo/entity/PlaceOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/place-order-service-apo/src/main/java/com/devstack/placeorderserviceapo/entity/PlaceOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service-api/src/main/java/com/devstack/productserviceapi/ProductServiceApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service-api/src/main/java/com/devstack/productserviceapi/ProductServiceApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service-api/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YiWZIB7ttT9QuNvBi5nCPH3Rdn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b99194c10287bf51d3a0be426ba940c8&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.ComOrderServiceApiApplication">
+    <configuration name="ComCustomerServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="com-customer-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.com.customer.service.api.ComCustomerServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComOrderServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="com-order-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.com.order.service.api.ComOrderServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.eurekaservice.EurekaServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaceOrderServiceApoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="place-order-service-apo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.placeorderserviceapo.PlaceOrderServiceApoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="product-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.productserviceapi.ProductServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77179652-1256-48cf-9ea4-0b200c23fe02" name="Changes" comment="" />
+      <created>1701008933440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701008933440</updated>
+      <workItem from="1701008934560" duration="2940000" />
+      <workItem from="1701377571215" duration="51000" />
+      <workItem from="1701774067986" duration="10512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

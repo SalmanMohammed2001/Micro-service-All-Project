@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Pos System Micro Service/product-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service/com-order-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service/place-order-service-apo/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service/com-customer-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/IJSE Micro Service Project/Item Service/Item-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/IJSE Micro Service Project/Order Service/Order-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/IJSE Micro Service Project/Customer Service/Customer-Service-Api/pom.xml" />
+        <option value="$PROJECT_DIR$/IJSE Micro Service Project/IService Registry/Service-Registry-api/pom.xml" />
+        <option value="$PROJECT_DIR$/IJSE Micro Service Project/Place Order Service/Place-Order-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step1/Item Service/Item-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step1/Order Service/Order-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step1/Customer Service/Customer-Service-Api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step1/IService Registry/Service-Registry-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step1/Place Order Service/Place-Order-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step2/Api Gateway/Api-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step2/Item Service/Item-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step2/Order Service/Order-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step2/Customer Service/Customer-Service-Api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step2/IService Registry/Service-Registry-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step2/Confing-Server-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Micro Service Project Ijse/IJSE Micro Service Project-step2/Place Order Service/Place-Order-Service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service  add eureka server/eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service  add eureka server/product-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service  add eureka server/com-order-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service  add eureka server/place-order-service-apo/pom.xml" />
+        <option value="$PROJECT_DIR$/Pos System Micro Service  add eureka server/com-customer-service-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

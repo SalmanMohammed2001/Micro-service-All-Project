@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6396c632-636c-4b2a-b83a-307629bf7a2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-customer-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com-customer-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-customer-service-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/com-customer-service-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/ComOrderServiceApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/ComOrderServiceApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/java/com/devstack/com/order/service/api/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com-order-service-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/com-order-service-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service-api/src/main/java/com/devstack/productserviceapi/ProductServiceApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service-api/src/main/java/com/devstack/productserviceapi/ProductServiceApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service-api/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YiVDBDnCIhfAvsq76xtf92GQk6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "700b1e7d125333f70abbea4dbc3d1e2e",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.ComOrderServiceApiApplication">
+    <configuration name="ComCustomerServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="com-customer-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.com.customer.service.api.ComCustomerServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComOrderServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="com-order-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.com.order.service.api.ComOrderServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaceOrderServiceApoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="place-order-service-apo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.placeorderserviceapo.PlaceOrderServiceApoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="product-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devstack.productserviceapi.ProductServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6396c632-636c-4b2a-b83a-307629bf7a2d" name="Changes" comment="" />
+      <created>1701008265568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701008265568</updated>
+      <workItem from="1701008267126" duration="372000" />
+      <workItem from="1701774051837" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
